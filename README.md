@@ -7,13 +7,13 @@
 Use destructuring to import the functions you need:
 
 ```javascript
-const {
+import  {
   newtonify,
   lawOfCoding,
   appleFall,
   gravityText,
   newtonRandom
-} = require('newtonify');
+} from 'newtonify';
 ```
 
 ---
