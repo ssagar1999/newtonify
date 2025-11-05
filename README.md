@@ -1,38 +1,4 @@
 
----
-
-````markdown
-# 🍎 newtonify
-
-⚡ **Newton School of Technology's Official Fun npm Package!**  
-_Add gravity, curiosity, and humor to your JavaScript projects._ 💡🚀
-
----
-
-## 🌍 About `newtonify`
-
-`newtonify` is a **playful, beginner-friendly** npm package created by **Newton School of Technology students**.  
-It's inspired by **Sir Isaac Newton's curiosity** and brings a *Newton twist* 🍏 to your console messages and utilities.
-
-It offers creative and educational utilities like:
-
-- 🧲 `newtonify()` — Add a Newton vibe to any message.  
-- 🧠 `lawOfCoding()` — Discover Newton’s Laws of *Coding*.  
-- 💥 `appleFall()` — Drop ideas or apples into your messages.  
-- 📐 `gravityText()` — Simulate gravity pulling your text down.  
-- 🧪 `newtonRandom()` — Get a random Newton fact or quote.
-
----
-
-## 🚀 Installation
-
-Install it globally or as a dependency in your project using npm:
-
-```bash
-npm install newtonify
-````
-
----
 
 ## 🧩 Usage
 
