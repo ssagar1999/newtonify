@@ -176,21 +176,4 @@ Made with ❤️, curiosity, and gravity 🍎💡
 
 > “Gravity pulled apples. Curiosity pulls coders.” — *Newton School of Technology*
 
-````
 
----
-
-✅ **Fix summary:**
-- Removed extra `>` that was causing the quote formatting.
-- Used double spaces + newlines for clean line breaks (npm supports this well).
-- Added consistent emoji alignment and markdown tables.
-- Corrected nested code block fences to avoid triple conflicts.
-
----
-
-Now just save this as `README.md`, then run:
-
-```bash
-npm version patch
-npm publish
-````
