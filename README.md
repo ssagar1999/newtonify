@@ -194,4 +194,3 @@ Now just save this as `README.md`, then run:
 npm version patch
 npm publish
 ````
-.
