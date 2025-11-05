@@ -1,6 +1,6 @@
 {
   "name": "newtonify",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Newton School of Technology's official fun npm package 🍎💡 (thanks, gravity!)",
   "main": "index.js",
   "keywords": [
