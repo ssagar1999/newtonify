@@ -194,5 +194,4 @@ Now just save this as `README.md`, then run:
 npm version patch
 npm publish
 ````
-
-Your npm page will render beautifully 🎉
+.
